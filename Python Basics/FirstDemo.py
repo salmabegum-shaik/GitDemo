@@ -4,6 +4,8 @@ print("first git fetch,then git merge")
 print("git fetch origin")
 print("git merge origin")
 print("first do git fetch and then do git diff")
+print("iam in main branch right now master branch")
+
 
 a=10
 print(a)
