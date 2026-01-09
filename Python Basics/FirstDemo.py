@@ -1,5 +1,6 @@
 print("hello world")
 print("Git fetch check pammi")
+print("first git fetch,then git merge")
 
 a=10
 print(a)
