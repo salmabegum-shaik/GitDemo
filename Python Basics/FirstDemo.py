@@ -3,6 +3,7 @@ print("Git fetch check pammi")
 print("first git fetch,then git merge")
 print("git fetch origin")
 print("git merge origin")
+print("first do git fetch and then do git diff")
 
 a=10
 print(a)
